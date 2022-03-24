@@ -1,0 +1,29 @@
+-Système de température
+-Système de pesé
+	-poids abeilles (100mg à 120mg+70mg(capacité de portée)300mg Maximum)
+	-poids reine abeilles (250à300mg)il peut y en avoir jusqu'a 10 par ruche voir plus
+	-poids faux bourdons(180à220mg)
+	-gelée royale 300g à 1kg
+	-miel :18 à 20g par ruche 
+	-système de capteure infrarouge
+-Serveur répertoriant les abeilles
+-site de gestion de la ruche 
+	-Masse
+	-température
+	-humidité
+	-luminosité
+	-orientation (entrée des abeilles)
+	-récolte de miel
+	-Nombre d'abeilles 
+	-température extérieurs
+	-Bouton réglage:
+	-ID Ruche 
+	-Nombre de ruche 
+	-Nom de la ruche
+	-une page de gestion de la ruche et des autres 
+
+-régulateur de charge 
+Couleur du site:
+-Jaune 
+-Noir
+-
